@@ -1,0 +1,26 @@
+Waiter Class
+
+Attributes:
+
+totalTables: (integer)
+tableClean: (array of boolean)
+timeStarted: (datetime)
+pagesInOrderBook: (integer)
+
+Methods:
+
+timeLeftInShift:
+  (Returns how much time is left in the waiters shift)
+  (8 - (timeNow - timeStarted))
+
+cleanTables:
+  (Returns an array of clean (true) tables)
+  (turns: tableClean [True, False, True, True, False]) into tableClean [True, True, True, True, True])
+
+countTip:
+  (For every table adds $5 to count tip)
+  (countTip = totalTables * 5)
+
+takeOrder:
+  (subtracts 1 page from the order book every time an order is taken)
+  (takeOrder = pagesInOrderBook - 1 )
