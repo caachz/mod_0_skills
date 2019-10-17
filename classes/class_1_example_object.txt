@@ -1,6 +1,5 @@
 Ryan the Waiter
 
-
 Attributes:
 
 totalTables: (5)
