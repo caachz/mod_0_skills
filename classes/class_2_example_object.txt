@@ -1,5 +1,6 @@
 object: Mark (customer)
 
+
 menu = (["burger", "salad", "soup", "steak"])
 orderTime = (6:45 pm)
 foodOnPlate = (75)
