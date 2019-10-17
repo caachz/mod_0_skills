@@ -1,0 +1,23 @@
+class: customer/ dinner
+
+menu = (array of strings of food options)
+orderTime = (dateTime)
+foodOnPlate = (integer)
+moneyInWallet = (integer)
+totalBill = (integer)
+
+orderFood:
+  returns one selection from the array of food options
+  ex. menu[1]
+
+waitForFood:
+  returns the amount of time since order was placed
+  timeNow - orderTime
+
+takeBiteOfFood:
+  returns the plate of food minus 1 bite
+  foodOnPlate - 1
+
+payBill:
+  subtracts the amount for the bill from the money in the customers wallet (including tip of course)
+  moneyInWallet - (totalBill * 1.20)
