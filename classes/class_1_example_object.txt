@@ -1,0 +1,27 @@
+Ryan the Waiter
+
+Attributes:
+
+totalTables: (5)
+tableClean: ([False, False, False, True, False])
+timeStarted: (5:00 pm)
+pagesInOrderBook: (20)
+
+Methods:
+
+timeLeftInShift:
+  (Returns how much time is left in the waiters shift)
+  (8 - (7:00 pm - 5:00 pm)) = 6 hours left
+
+
+cleanTables:
+  (Returns an array of clean (true) tables)
+  (turns: tableClean [False, False, False, True, False]) into tableClean [True, True, True, True, True])
+
+countTip:
+  (For every table adds $5 to count tip)
+  (5 * 5 = $25)
+
+takeOrder:
+  (subtracts 1 page from the order book every time an order is taken)
+  (20 - 1 = 19)
