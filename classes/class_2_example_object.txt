@@ -1,0 +1,23 @@
+object: Mark (customer)
+
+menu = (["burger", "salad", "soup", "steak"])
+orderTime = (6:45 pm)
+foodOnPlate = (75)
+moneyInWallet = (200)
+totalBill = (50)
+
+orderFood:
+  returns one selection from the array of food options
+  menu[3] = "steak"
+
+waitForFood:
+  returns the amount of time since order was placed
+  7:00 pm - 6:45 pm = 15 min since order was placed
+
+takeBiteOfFood:
+  returns the plate of food minus 1 bite
+  75 - 1 = 74
+
+payBill:
+  subtracts the amount for the bill from the money in the customers wallet (including tip of course)
+  200 - (50 * 1.20) = 140
