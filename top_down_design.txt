@@ -9,8 +9,8 @@ How to become a Turing student
         1.1.1.1 Exit loop
 2 Choose Turing out of the many options
   2.1 choose the parameters you want to compare schools against
-  2.1 make a list of all schools that meet your parameters
-  2.1 See that Turing is at the top
+  2.2 make a list of all schools that meet your parameters
+  2.3 See that Turing is at the top
 3 Go to try coding weekend
   3.1 Sign up for try coding weekend
     3.1.1 pay $50
