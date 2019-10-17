@@ -1,4 +1,5 @@
 How to become a Turing student
+
 1 Decide if programming is for you
   1.1 Take some free online courses
     1.1.1 Did you enjoy them?
