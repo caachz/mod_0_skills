@@ -1,0 +1,70 @@
+How to become a Turing student
+1 Decide if programming is for you
+  1.1 Take some free online courses
+    1.1.1 Did you enjoy them?
+      Yes:
+        1.1.1.1 Move to step 2
+      No:
+        1.1.1.1 Exit loop
+2 Choose Turing out of the many options
+  2.1 choose the parameters you want to compare schools against
+  2.1 make a list of all schools that meet your parameters
+  2.1 See that Turing is at the top
+3 Go to try coding weekend
+  3.1 Sign up for try coding weekend
+    3.1.1 pay $50
+  3.2 complete try coding weekend
+    3.2.1 Show up for try coding weekend
+    3.2.2 Meet students and teachers
+    3.2.3 Crush the assignments
+4 Apply to Turing
+  4.1 Go to Turing.io
+  4.2 click apply
+  4.3 fill out all of your information
+    4.3.1 update your resume
+      4.3.1.1 add previous job experience
+      4.3.1.2 fix typos
+    4.3.2 upload your resume
+  4.4 Complete logic assessment
+    4.4.1 Study
+      4.4.1.1 take online logic quizzes
+    4.4.2 take the test
+      4.4.2.1 fill out answers
+5 Interview at Turing
+  5.1 receive notice of logic assessment success
+  5.2 schedule an Interview
+    5.2.1 open calendar and choose a time
+    5.2.2 request that time off current job
+  5.3 Interview
+    5.3.1 get dressed in nicer interview clothes
+    5.3.2 go to Turing
+      5.3.2.1 get in car
+      5.3.2.2 drive to Turing
+      5.3.2.3 Park
+      5.3.2.4 Walk to building
+    5.3.3 Meet interviewer
+      5.3.3.1 Shake hand
+      5.3.3.2 introduce self
+    5.3.4 Begin logic test
+      5.3.4.1 solve questions
+        5.3.4.1.1 read question
+        5.3.4.1.2 write out logic
+        5.3.4.1.3 write answer
+    5.3.5 Continue Interview
+      5.3.5.1 Answer questions
+        5.3.5.1.1 fumble through answers
+    5.3.6 Say goodbye to interviewer
+      5.3.6.1 thank them for their time
+6 Get accepted at Turing
+  6.1 Hear back from Turing
+    6.1.1 get an email congratulating you on your admission
+  6.2 Accept offer
+7 Secure funding
+  7.1 get a loan
+    7.1.1 apply for loan
+      7.1.1.1 fill out paperwork
+    7.1.2 get loan accepted
+  7.2 Pay Turing
+8 Start Turing
+  8.1 Sign up for mod 0
+  8.2 sign up for mod 1
